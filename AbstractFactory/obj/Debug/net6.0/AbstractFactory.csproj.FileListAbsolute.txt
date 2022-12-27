@@ -1,0 +1,15 @@
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.exe
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.runtimeconfig.json
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\refint\AbstractFactory.dll
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
