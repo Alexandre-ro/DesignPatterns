@@ -13,3 +13,9 @@ D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\refint\Abstract
 D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
 D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache
 D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\bin\Debug\net6.0\FactoryMethod.deps.json
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\bin\Debug\net6.0\FactoryMethod.exe
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\bin\Debug\net6.0\FactoryMethod.dll
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\bin\Debug\net6.0\FactoryMethod.pdb
+D:\PROJETOS\.NET\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CopyComplete

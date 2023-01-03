@@ -1,7 +1,7 @@
 ﻿using FactoryMethod.Classes;
 using FactoryMethod.Interfaces;
 
-Console.WriteLine("Factory Method");
+Console.WriteLine("*************** Factory Method ***************  ");
 
 Factory fm = new Factory();
 
